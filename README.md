@@ -28,7 +28,7 @@ This platform is designed to bridge the health awareness gap, especially in **ru
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
-- **AI/ML**: Python, Pandas, Scikit-learn
+- **AI/ML**: Python, Pandas, Scikit-learn Integrated Google Gemini API for Risk Analysis
 - **Version Control & Deployment**: GitHub, Replit
 - **Design**: Canva, Figma
 - **Demo Tools**: Loom, PowerPoint
